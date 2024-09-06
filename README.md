@@ -42,3 +42,17 @@ Sinta-se à vontade para contribuir para este projeto! Se você tiver alguma ide
 **#WorldOfWarcraft #JavaScript #Programação #Desenvolvedor #Azeroth**
 
 Link do site: https://wow-project-mocha.vercel.app
+
+## Personagens disponiveis para pesquisa até o momento:
+Vol'jin
+Thrall
+Garrosh
+Jaina
+Sylvanas
+Arthas
+Varian
+Anduin
+Genn
+Gul'dan
+Illidan
+Tyrande
