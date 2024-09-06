@@ -86,6 +86,14 @@ let dados = [
         raca: "Elfo Noturno (anteriormente), Demônio (atualmente)",
         classe: "Caçador de Demônios",
         tags: "illidan tempesfuria elfo noturno demônio magia"
+    },
+    {
+        titulo: "Tyrande Whisperwind", 
+        descricao: "Uma elfa noturna poderosa, Grande Sacerdotisa de Elune e líder da Sentinelas. Conhecida por sua fé inabalável e habilidades com a magia arcana.", 
+        link: "https://lendasdeazeroth.com.br/personagens/tyrande-whisperwind/", 
+        raca: "Elfa Noturna", 
+        classe: "Sacerdote", 
+        tags: "tyrande elune sentinelas"  
     }
 
 ];
